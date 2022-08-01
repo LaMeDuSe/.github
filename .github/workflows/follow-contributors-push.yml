@@ -11,5 +11,5 @@ jobs:
       - name: Follow user
         uses: okp4/follow-contributor-action@v1.0.0
         with:
-          username: ${{ github.event.push.pusher.login }}
+          username: ${{ github.event.push.sender.login  }}
           token: ${{ secrets.LAMEDUSE_TOKEN }}
