@@ -1,5 +1,5 @@
 ---
-name: Style Request
+name: Style Update Request
 about: Request style improvement
 title: 'style: '
 labels: style
