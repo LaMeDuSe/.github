@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Purspose**
+**Purpose**
 <!-- Where do you need more docs (please explain) ? -->
