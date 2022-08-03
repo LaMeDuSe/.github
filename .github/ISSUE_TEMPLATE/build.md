@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Purspose**
+**Purpose**
 <!-- Where do you need a new build target (please explain) ? -->
