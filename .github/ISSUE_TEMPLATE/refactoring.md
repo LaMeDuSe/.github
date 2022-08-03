@@ -1,6 +1,6 @@
 ---
 name: Refactor Request
-about: Request refactoring
+about: Request / Suggest refactoring of code
 title: 'refactor: '
 labels: refactor
 assignees: ''
