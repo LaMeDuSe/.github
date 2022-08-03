@@ -1,6 +1,6 @@
 ---
 name: Request Revert 
-about: Request a revert
+about: Request a revert on code or docs
 title: 'revert: '
 labels: revert
 assignees: ''
