@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Purspose**
+**Purpose**
 <!-- Where do you need to update testing (please explain) ? -->
