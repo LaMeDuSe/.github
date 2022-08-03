@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Purspose**
+**Purpose**
 <!-- Where do you need a style modification (please explain) ? -->
