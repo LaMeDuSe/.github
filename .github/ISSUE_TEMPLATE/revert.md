@@ -1,5 +1,5 @@
 ---
-name: Revert Request
+name: Request Revert 
 about: Request a revert
 title: 'revert: '
 labels: revert
